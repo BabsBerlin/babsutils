@@ -1,9 +1,9 @@
 
 def helloworld():
     ''' simple greeting '''
-    return "babsutils says hello world!"
+    return "babsutils 1.0 says hello world!"
     
-def sum(a,b):
+def sumup(a,b):
     ''' return the sum of the parameters '''
     return a + b
     
